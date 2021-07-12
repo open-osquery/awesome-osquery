@@ -24,6 +24,7 @@ Documentation published and vetted by the osquery maintainers.
 
 ## osquery with containers
 
+* [Monitoring containers using osquery](https://developer.ibm.com/technologies/containers/articles/monitoring-containers-osquery/) - IBM tech blog on Monitoring containers using osquery
 * [aquasecurity/kube-query](https://github.com/aquasecurity/kube-query) - An
   experimental osquery extension to query your kubernetes clusters.
 * [uptycs/kubequery](https://github.com/Uptycs/kubequery) - uptycs
